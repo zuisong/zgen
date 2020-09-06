@@ -10,7 +10,7 @@ The motive for creating zgen was to have plugins quickly installed on a new mach
 
 Clone the zgen repository
 
-    git clone https://github.com/tarjoilija/zgen.git "${HOME}/.zgen"
+    git clone https://github.com/zuisong/zgen.git "${HOME}/.zgen"
 
 Edit your .zshrc file to load zgen
 
